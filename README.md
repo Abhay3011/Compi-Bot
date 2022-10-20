@@ -1,8 +1,8 @@
-## 𝕍𝕚𝕕𝕖𝕠 ℂ𝕆𝕄ℙℝ𝔼𝕊𝕊𝕆ℝ 𝔹𝕆𝕋  
+## 𝕍𝕚𝕕𝕖𝕠 ℂ𝕆𝕄ℙi 𝔹𝕆𝕋  
 
 ## ᴍᴜʟᴛɪғᴜɴᴄᴛɪᴏɴ ǫᴜᴀʟɪᴛʏ ᴄᴏᴍᴘʀᴇssᴏʀ  
 
-### A Telegram Video CompressorBot  
+### A Telegram Video Compi Bot  
 
 - it compress videos with negligible Quality change.
 - u can generate sample Compressed videos nd screenshots too.

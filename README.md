@@ -1,14 +1,14 @@
 ## 𝕍𝕚𝕕𝕖𝕠 ℂ𝕆𝕄ℙi 𝔹𝕆𝕋  
 
-## ᴍᴜʟᴛɪғᴜɴᴄᴛɪᴏɴ ǫᴜᴀʟɪᴛʏ ᴄᴏᴍᴘʀᴇssᴏʀ  
+## ᴍᴜʟᴛɪғᴜɴᴄᴛɪᴏɴ ǫᴜᴀʟɪᴛʏ ᴄᴏᴍᴘʀᴏʀ  
 
 ### A Telegram Video Compi Bot  
 
-- it compress videos with negligible Quality change.
-- u can generate sample Compressed videos nd screenshots too.
+- it compr videos with negligible Quality change.
+- u can generate sample Compre videos nd screenshots too.
 - u can set custom video name nd Thumbnail.
 - u can get logs videos to a channel too.
-- Coz of its Quality encode It takes little time to Compress.
+- Coz of its Quality encode It takes little time to Comp
 - For now i set it for maximum 5 Processes at a time.
 - Its Running Without Db so Block /ban /Broadcast Feature is currently Not available.
 

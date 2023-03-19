@@ -33,7 +33,6 @@ from pathlib import Path
 import requests
 import telethon.utils
 from decouple import config
-from html_telegraph_poster import TelegraphPoster
 from telethon import Button, TelegramClient, errors, events, functions, types
 from telethon.sessions import StringSession
 from telethon.tl.functions.messages import ExportChatInviteRequest as cl
@@ -42,3 +41,10 @@ from telethon.utils import get_display_name
 
 basicConfig(format="[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s", level=INFO)
 LOGS = getLogger(__name__)
+
+async def startup():
+    for x in OWNER.split():
+        try:
+            await bot.send_message(int(x), "**Bot is Successfully Deployed**")
+        except:
+            pass
